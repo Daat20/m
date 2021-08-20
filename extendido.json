@@ -1,0 +1,33 @@
+{ 
+      " información " : { 
+        " url_png_icon_64x64 " : "https://raw.githubusercontent.com/Daat20/m/main/logo-awake.jpg", 
+        " url_png_logo " : "https://raw.githubusercontent.com/Daat20/m/main/logo-awake.jpg", 
+        " ubicación " : " Cuenca, ECUADOR " , 
+          " social " : { 
+              " twitter_handle " : "Awakepool", 
+              " instagram_handle " : "Awakepool", 
+              " facebook_handle " : "Awakepool", 
+              " telegram_handle " : "Awakepool" 
+             }, 
+        " empresa " : { 
+            " nombre " : " " , 
+            " addr " : " " , 
+            " ciudad " : " " , 
+            " país " : " " , 
+            " company_id " : " " , 
+            " vat_id " : " " 
+        }, 
+        " acerca de " : { 
+            " yo " : " operado desde un pequeño grupo en Cuenca-Ecuador, estamos felices de ser parte de la comunidad cardano. " , 
+            " servidor " : " Red de 4 servidores de 8GB, ubicados en Cuenca - Ecuador. " , 
+            " empresa " : " " 
+        } 
+    }, 
+    " my-pool-ids " : { 
+        " 0 " : "d44686bfa3d58bb5bdc521f4bd2622b7283c79834e6598658d046e98" , 
+        " 1 " : " " 
+    }, 
+    " telegram-admin-handle " : { 
+        " 0 " : "Awakepool" 
+    } 
+} 

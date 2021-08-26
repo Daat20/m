@@ -4,10 +4,10 @@
         " url_png_logo " : "https://raw.githubusercontent.com/Daat20/m/main/logo-awake.jpg", 
         " ubicación " : " Cuenca, ECUADOR " , 
           " social " : { 
-              " twitter_handle " : "Awakepool", 
-              " instagram_handle " : "Awakepool", 
+              " twitter_handle " : "awakepool", 
+              " instagram_handle " : "awakepool", 
               " facebook_handle " : "Awakepool", 
-              " telegram_handle " : "Awakepool" 
+              " telegram_handle " : "awakepool" 
              }, 
         " empresa " : { 
             " nombre " : " " , 
@@ -28,6 +28,6 @@
         " 1 " : " " 
     }, 
     " telegram-admin-handle " : { 
-        " 0 " : "Awakepool" 
+        " 0 " : "awakepool" 
     } 
 } 
